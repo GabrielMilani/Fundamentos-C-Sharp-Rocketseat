@@ -1,0 +1,14 @@
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\bin\Debug\net8.0\Exercicio 1.exe
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\bin\Debug\net8.0\Exercicio 1.deps.json
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\bin\Debug\net8.0\Exercicio 1.runtimeconfig.json
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\bin\Debug\net8.0\Exercicio 1.dll
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\bin\Debug\net8.0\Exercicio 1.pdb
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\obj\Debug\net8.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\obj\Debug\net8.0\Exercicio 1.AssemblyInfoInputs.cache
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\obj\Debug\net8.0\Exercicio 1.AssemblyInfo.cs
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\obj\Debug\net8.0\Exercicio 1.csproj.CoreCompileInputs.cache
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\obj\Debug\net8.0\Exercicio 1.dll
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\obj\Debug\net8.0\refint\Exercicio 1.dll
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\obj\Debug\net8.0\Exercicio 1.pdb
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\obj\Debug\net8.0\Exercicio 1.genruntimeconfig.cache
+D:\Dev\Desafios\Fundamentos\Fundamentos do C-Sharp\Fundamentos do C-Sharp\obj\Debug\net8.0\ref\Exercicio 1.dll
